@@ -1,0 +1,2 @@
+# MajorProject
+Plant Diseases Classification
